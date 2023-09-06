@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Adrian Abcede",
+    "label": "Student",
+    "picture": "https://github.com/AdrianAbcede.png",
+    "email": "aabcede@hawaii.edu",
+    "phone": "",
+    "website": "https://AdrianAbcede.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "AdrianAbcede", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+    ]
+  },
+  "interests": [
+    { "name": "Beach" },
+    { "name": "Making Friends" },
+    { "name": "Gym" },
+    { "name": "Making Music" },
+    { "name": "" }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "keywords": [ "" ]
+    },
+    {
+      "name": "",
+      "keywords": [ "" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": ""
+    }
+  ]
+}
