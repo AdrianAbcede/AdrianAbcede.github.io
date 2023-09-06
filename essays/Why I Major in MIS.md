@@ -4,7 +4,6 @@ type: essay
 title: "Why I am looking towards MIS?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-05
-published: true
 ---
 
 
