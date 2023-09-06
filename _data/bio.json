@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Beach" },
+    { "name": "Making Friends" },
+    { "name": "Gym" },
+    { "name": "Making Music" },
+    { "name": "" }
   ],
   "skills": [
     {
